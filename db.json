@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "Test one"
+    },
+    {
+      "text": "Test two from backend",
+      "rating": 8,
+      "id": 2
+    },
+    {
+      "text": "Testing - JSON Server",
+      "rating": 10,
+      "id": 3
+    },
+    {
+      "text": "Text must be at least 10 characters",
+      "rating": 4,
+      "id": 4
+    }
+  ]
+}
